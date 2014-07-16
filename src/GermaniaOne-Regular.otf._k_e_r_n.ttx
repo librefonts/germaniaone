@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-15"/>
+      <pair l="F" r="a" v="-30"/>
+      <pair l="F" r="a.salt" v="-45"/>
+      <pair l="L" r="T" v="-35"/>
+      <pair l="L" r="V" v="-15"/>
+      <pair l="L" r="Y" v="-65"/>
+      <pair l="T" r="A" v="-15"/>
+      <pair l="T" r="a" v="-35"/>
+      <pair l="T" r="a.salt" v="-40"/>
+      <pair l="T" r="adieresis.salt" v="-30"/>
+      <pair l="T" r="e" v="-35"/>
+      <pair l="T" r="u" v="-30"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
